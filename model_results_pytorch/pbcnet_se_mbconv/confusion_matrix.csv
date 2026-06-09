@@ -1,0 +1,9 @@
+,basophil,eosinophil,erythroblast,ig,lymphocyte,monocyte,neutrophil,platelet
+basophil,243,0,0,1,0,0,0,0
+eosinophil,0,623,0,0,0,0,0,0
+erythroblast,0,0,306,2,1,0,0,1
+ig,0,0,0,564,0,2,13,0
+lymphocyte,0,0,0,0,243,0,0,0
+monocyte,0,0,0,4,4,276,0,0
+neutrophil,0,0,0,6,0,0,660,0
+platelet,0,0,0,0,1,0,0,469

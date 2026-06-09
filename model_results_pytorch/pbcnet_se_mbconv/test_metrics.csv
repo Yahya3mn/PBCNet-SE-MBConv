@@ -1,0 +1,14 @@
+Metric,Value
+accuracy,0.9897630886224043
+balanced_accuracy,0.9897232493898165
+macro_precision,0.9905918609595121
+macro_recall,0.9897232493898165
+macro_f1,0.9901156978119832
+weighted_precision,0.9898191189354324
+weighted_recall,0.9897630886224043
+weighted_f1,0.9897615189678036
+roc_auc_macro,0.9997963573465143
+roc_auc_weighted,0.9997298681276963
+total_inference_time_sec,12.707846403121948
+avg_inference_time_per_image_ms,3.716831355110251
+throughput_images_per_sec,269.04637430619647
