@@ -65,4 +65,4 @@ weights/pbcnet_se_mbconv_best.pth
 ## Citation
 
 Y. Z. Khan, A. İnan, H. Kutucu, and İ. Avcı,
-"Deep Learning-Based Peripheral Blood Cell Classification: Generalizability, Class Imbalance, and Explainability Analysis." (After publication citation will corrected)
+"Explainable and Generalizable Peripheral Blood Cell Classification Using PBCNet-SE-MBConv: A Comparative Deep Learning Study with External Validation" (After publication citation will corrected)
